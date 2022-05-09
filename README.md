@@ -19,7 +19,7 @@ Mode No. 2 :
 
 Mode No. 3 :
 
-![](assets/tco-mode2.gif)
+![](assets/tco-mode3.gif)
 
 ## Version
 Made with Python 3.10.0 & TwitterAPI v1 & TwitterAPIv2
